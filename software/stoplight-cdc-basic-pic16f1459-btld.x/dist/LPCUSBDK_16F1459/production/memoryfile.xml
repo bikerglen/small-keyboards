@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/LPCUSBDK_16F1459/production\stoplight-cdc-basic-pic16f1459-btld.x.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>8192</length>
+      <used>5560</used>
+      <free>2632</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>1024</length>
+      <used>497</used>
+      <free>527</free>
+    </memory>
+  </executable>
+</project>
